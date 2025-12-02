@@ -1,0 +1,16 @@
+{
+  "sectionTitle": "Education",
+  "education": [
+    {
+      "degree": "B.Tech in CSE (Data Science)",
+      "institution": "RCOEM",
+      "period": "2022–2026",
+      "description": "B.Tech in CSE (Data Science) in CSE (Data Science) - GPA: 8.8/10",
+      "achievements": [],
+      "color": "#667eea",
+      "icon": "fas fa-graduation-cap"
+    }
+  ],
+  "certificationsTitle": "Certifications & Awards",
+  "certifications": []
+}

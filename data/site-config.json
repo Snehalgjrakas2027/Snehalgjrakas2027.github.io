@@ -1,0 +1,13 @@
+{
+  "title": "SNEHAL RAKAS - Professional Portfolio",
+  "description": "Professional portfolio showcasing my work and experience",
+  "author": "SNEHAL RAKAS",
+  "keywords": "Data Processing, SQL, Machine learning, Deep Learning, Artificial Intelligence, Computer Networks, Operating System, SDLC, AWS (received hands-on training), cloud concepts - (Scalability, Reliability,Availability,EC2,S3), Communication, Teamwork, Adaptability, Leadership, Python, C++, NLP, Wit AI NLU, React",
+  "ogImage": "/assets/images/og-image.jpg",
+  "favicon": "/assets/images/favicon.ico",
+  "theme": {
+    "primaryColor": "#3b82f6",
+    "secondaryColor": "#8b5cf6",
+    "accentColor": "#ec4899"
+  }
+}

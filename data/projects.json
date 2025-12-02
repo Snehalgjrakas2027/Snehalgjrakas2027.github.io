@@ -1,0 +1,319 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "NOVA: Virtual Desktop Assistant",
+      "description": "Built an Al-powered desktop assistant for task automation and intelligent responses.\nIntegrated APIs, performed testing, and created project documentation.\nImplemented NLP, voice interaction, and automation achieving 78% task efficiency.",
+      "color": "#667eea",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "NLP"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "AURA: Automatic Understanding & Recommendation Assistant",
+      "description": "An aid for the machine learning enthusiasts and the journeymen that guides users\nfrom idea to model deployment.\nBuilt backend modules for preprocessing, integration of Wit AI NLU, model training,\nand algorithm selection.\nDesigned an interactive React based frontend UI with ML pipeline visuals and automated\ncode generation.",
+      "color": "#764ba2",
+      "icon": "fas fa-project-diagram",
+      "technologies": [
+        "Wit AI NLU",
+        "React"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "",
+        "demo": ""
+      },
+      "stats": {}
+    },
+    {
+      "title": "Image-Processing-Algorithms",
+      "description": "This project demonstrates the implementation of key computer vision and image processing algorithms using OpenCV. Each algorithm is implemented in Python and applied on sample image pairs to detect keypoints, match features, and analyze image structures. The results are visualized and saved for review.",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Image-Processing-Algorithms",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "contribution-history",
+      "description": "Generated GitHub contribution history",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/contribution-history",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": ""
+      }
+    },
+    {
+      "title": "NOVA-AI",
+      "description": "GitHub repository: NOVA-AI",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/NOVA-AI",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "macos-system-health-monitor",
+      "description": "GitHub repository: macos-system-health-monitor",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/macos-system-health-monitor",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "Python"
+      }
+    },
+    {
+      "title": "microship",
+      "description": "GitHub repository: microship",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "Dockerfile"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/microship",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 1,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "snehal-portfolio",
+      "description": "GitHub repository: snehal-portfolio",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "HTML"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/snehal-portfolio",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML"
+      }
+    },
+    {
+      "title": "Firebase-To-Do-app",
+      "description": "GitHub repository: Firebase-To-Do-app",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Firebase-To-Do-app",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "Project1",
+      "description": "GitHub repository: Project1",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Project1",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "customer-churn-analysis",
+      "description": "GitHub repository: customer-churn-analysis",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/customer-churn-analysis",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "todo-firebase",
+      "description": "GitHub repository: todo-firebase",
+      "color": "#4facfe",
+      "icon": "fab fa-github",
+      "technologies": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/todo-firebase",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript"
+      }
+    },
+    {
+      "title": "Image-Classification-using-MLP-on-CIFAR-10-Dataset",
+      "description": "GitHub repository: Image-Classification-using-MLP-on-CIFAR-10-Dataset",
+      "color": "#667eea",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Image-Classification-using-MLP-on-CIFAR-10-Dataset",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "Cats-vs-Dogs-Image-Classification-using-CNN",
+      "description": "GitHub repository: Cats-vs-Dogs-Image-Classification-using-CNN",
+      "color": "#764ba2",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Cats-vs-Dogs-Image-Classification-using-CNN",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    },
+    {
+      "title": "Wine-Quality-Prediction-using-Machine-Learning",
+      "description": "GitHub repository: Wine-Quality-Prediction-using-Machine-Learning",
+      "color": "#f093fb",
+      "icon": "fab fa-github",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "keyFeatures": [],
+      "projectType": "",
+      "highlight": "",
+      "links": {
+        "github": "https://github.com/Snehalgjrakas2027/Wine-Quality-Prediction-using-Machine-Learning",
+        "demo": ""
+      },
+      "stats": {
+        "stars": 0,
+        "forks": 0,
+        "language": "Jupyter Notebook"
+      }
+    }
+  ]
+}
